@@ -1,10 +1,5 @@
 import java.util.Scanner;
 
-/**
- *
- * @author Guilherme Henrique de Abreu Sozzi
- */
-
 public class PilhaHanoi {
     public static int[] pilhaA = {5, 4, 3, 2, 1};
     public static int[] pilhaB = {0, 0, 0, 0, 0};
